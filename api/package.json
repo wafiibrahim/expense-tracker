@@ -1,0 +1,11 @@
+{
+    
+
+    "type": "module",
+    "scripts": {
+        "start": "node --experimental-modules index.mjs"
+    },
+    "dependencies": {
+        "cors": "^2.8.5"
+    }
+}
